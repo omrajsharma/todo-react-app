@@ -15,6 +15,9 @@
 
 # How to use
 
+check it is working 
+[Here](http://todo-app-omraj.netlify.app)
+<br> <br>
 To use this app. first open up powershell or terminal.
 
 **1.** Clone this project.
