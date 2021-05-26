@@ -24,13 +24,11 @@ To use this app. first open up powershell or terminal.
 
 **2.** Navigate to the project directory.
 
-    ```
     cd todo-react-app
-    ```
+
 
 **3.** Start the app.
 
-    ```
     yarn start
-    ```
+    
 
